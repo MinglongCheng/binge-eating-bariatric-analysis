@@ -1,0 +1,6 @@
+/data/
+/outputs/
+/.venv/
+/.git/
+/.Rproj.user/
+/.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+panel_id,feature_set,feature,display_name,direction_symbol,normalized_cross_model_mean_abs_shap,directional_consistency_abs_mean_sign,signed_mean_direction,display_order
+e,All features,creatinine_umol_l,Creatinine,+,1.0,0.90625,0.90625,1
+e,All features,calcium_mmol_l,Ca,−,0.9105481701045628,1.0,-1.0,2
+e,All features,total_protein_g_l,Total protein,−,0.8306746850906915,1.0,-1.0,3
+e,All features,iron_umol_l,Fe,−,0.8236604403081424,1.0,-1.0,4
+e,All features,folate_ng_ml,Folate,+,0.7150469553645447,0.9583333333333333,0.9583333333333333,5
+e,All features,urea_mmol_l,Urea,+,0.335638230972262,0.5391414141414141,0.5391414141414141,6
+e,All features,hemoglobin_g_l,Hb,−,0.29109658746454603,0.9651162790697674,-0.9651162790697674,7
+e,All features,rbc_10e12_l,RBC,−,0.25703642254172565,0.8837209302325582,-0.8837209302325582,8

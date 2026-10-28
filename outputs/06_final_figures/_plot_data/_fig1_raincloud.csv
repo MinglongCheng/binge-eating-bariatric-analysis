@@ -1,0 +1,367 @@
+participant_order,bes_group,indicator,unit,value,panel_order
+1,Non-BE,Total protein,g/L,72.19436992,1
+2,Non-BE,Total protein,g/L,72.769828,1
+3,BE,Total protein,g/L,67.69911074,1
+4,BE,Total protein,g/L,74.74575862,1
+5,Non-BE,Total protein,g/L,67.70689223,1
+6,BE,Total protein,g/L,65.63769402,1
+7,Non-BE,Total protein,g/L,69.5391301,1
+8,Non-BE,Total protein,g/L,71.01230241,1
+9,BE,Total protein,g/L,74.01564021,1
+10,BE,Total protein,g/L,75.19990121,1
+11,Non-BE,Total protein,g/L,68.36713343,1
+12,Non-BE,Total protein,g/L,75.43381763,1
+13,BE,Total protein,g/L,72.97335953,1
+14,BE,Total protein,g/L,77.73341566,1
+15,Non-BE,Total protein,g/L,72.44488045,1
+16,Non-BE,Total protein,g/L,68.48087327,1
+17,Non-BE,Total protein,g/L,73.45797867,1
+18,BE,Total protein,g/L,70.79575079,1
+19,Non-BE,Total protein,g/L,70.20507224,1
+20,BE,Total protein,g/L,66.89648553,1
+21,BE,Total protein,g/L,63.49114213,1
+22,Non-BE,Total protein,g/L,74.00983641,1
+23,BE,Total protein,g/L,73.10726863,1
+24,BE,Total protein,g/L,68.87883228,1
+25,BE,Total protein,g/L,74.40815848,1
+26,BE,Total protein,g/L,75.55792607,1
+27,Non-BE,Total protein,g/L,70.96356378,1
+28,Non-BE,Total protein,g/L,66.88767425,1
+29,Non-BE,Total protein,g/L,74.08284341,1
+30,BE,Total protein,g/L,69.53127711,1
+31,Non-BE,Total protein,g/L,82.69206955,1
+32,Non-BE,Total protein,g/L,73.4978576,1
+33,BE,Total protein,g/L,70.52036931,1
+34,Non-BE,Total protein,g/L,80.68582911,1
+35,BE,Total protein,g/L,53.02378463,1
+36,Non-BE,Total protein,g/L,79.42453863,1
+37,Non-BE,Total protein,g/L,74.60638977,1
+38,Non-BE,Total protein,g/L,69.5836198,1
+39,Non-BE,Total protein,g/L,79.18915856,1
+40,BE,Total protein,g/L,70.61486872,1
+41,BE,Total protein,g/L,68.99585911,1
+42,BE,Total protein,g/L,71.13424083,1
+43,Non-BE,Total protein,g/L,69.88837679,1
+44,BE,Total protein,g/L,68.22926721,1
+45,BE,Total protein,g/L,66.12037624,1
+46,BE,Total protein,g/L,68.58566802,1
+47,BE,Total protein,g/L,66.18614768,1
+48,Non-BE,Total protein,g/L,76.08812038,1
+49,BE,Total protein,g/L,63.5967222,1
+50,Non-BE,Total protein,g/L,77.10198734,1
+51,Non-BE,Total protein,g/L,70.76704128,1
+52,Non-BE,Total protein,g/L,69.84997196,1
+53,BE,Total protein,g/L,80.1463865,1
+54,Non-BE,Total protein,g/L,78.11083366,1
+55,BE,Total protein,g/L,57.42555441,1
+56,BE,Total protein,g/L,69.51570847,1
+57,BE,Total protein,g/L,65.19632328,1
+58,Non-BE,Total protein,g/L,76.40678956,1
+59,BE,Total protein,g/L,64.81720661,1
+60,BE,Total protein,g/L,72.72676285,1
+61,BE,Total protein,g/L,73.13801503,1
+62,BE,Total protein,g/L,76.51291192,1
+63,BE,Total protein,g/L,71.072318,1
+64,Non-BE,Total protein,g/L,77.09950432,1
+65,Non-BE,Total protein,g/L,72.19558901,1
+66,BE,Total protein,g/L,66.68452362,1
+67,Non-BE,Total protein,g/L,71.69451506,1
+68,Non-BE,Total protein,g/L,66.99995604,1
+69,Non-BE,Total protein,g/L,75.38131138,1
+70,BE,Total protein,g/L,74.26583179,1
+71,BE,Total protein,g/L,70.52556507,1
+72,BE,Total protein,g/L,76.19150026,1
+73,Non-BE,Total protein,g/L,83.33931665,1
+74,Non-BE,Total protein,g/L,67.60200374,1
+75,Non-BE,Total protein,g/L,76.18695751,1
+76,BE,Total protein,g/L,69.97986232,1
+77,BE,Total protein,g/L,70.82217485,1
+78,Non-BE,Total protein,g/L,73.3950495,1
+79,Non-BE,Total protein,g/L,70.75761063,1
+80,Non-BE,Total protein,g/L,71.54810312,1
+81,BE,Total protein,g/L,68.34743235,1
+82,Non-BE,Total protein,g/L,74.90861526,1
+83,BE,Total protein,g/L,67.80890534,1
+84,Non-BE,Total protein,g/L,70.91796249,1
+85,Non-BE,Total protein,g/L,72.0632575,1
+86,Non-BE,Total protein,g/L,68.65358863,1
+87,BE,Total protein,g/L,64.30367378,1
+88,Non-BE,Total protein,g/L,71.44046197,1
+89,BE,Total protein,g/L,68.48667867,1
+90,Non-BE,Total protein,g/L,75.61857892,1
+91,Non-BE,Total protein,g/L,74.30180627,1
+92,BE,Total protein,g/L,63.34480363,1
+93,Non-BE,Total protein,g/L,72.73170256,1
+94,Non-BE,Total protein,g/L,71.28744737,1
+95,Non-BE,Total protein,g/L,70.10582068,1
+96,Non-BE,Total protein,g/L,70.85115011,1
+97,BE,Total protein,g/L,69.37689721,1
+98,Non-BE,Total protein,g/L,72.36458752,1
+99,BE,Total protein,g/L,63.72531742,1
+100,BE,Total protein,g/L,74.08259702,1
+101,Non-BE,Total protein,g/L,70.90631589,1
+102,BE,Total protein,g/L,71.10270932,1
+103,Non-BE,Total protein,g/L,67.68615163,1
+104,Non-BE,Total protein,g/L,80.72847116,1
+105,Non-BE,Total protein,g/L,70.68884449,1
+106,BE,Total protein,g/L,70.17613222,1
+107,BE,Total protein,g/L,66.71959019,1
+108,Non-BE,Total protein,g/L,71.4109501,1
+109,Non-BE,Total protein,g/L,69.30391392,1
+110,BE,Total protein,g/L,70.03369745,1
+111,BE,Total protein,g/L,68.75170507,1
+112,Non-BE,Total protein,g/L,69.37131326,1
+113,Non-BE,Total protein,g/L,74.13976453,1
+114,Non-BE,Total protein,g/L,70.40828239,1
+115,BE,Total protein,g/L,74.20945798,1
+116,Non-BE,Total protein,g/L,71.79457863,1
+117,Non-BE,Total protein,g/L,72.58716244,1
+118,Non-BE,Total protein,g/L,69.95470316,1
+119,BE,Total protein,g/L,74.65907669,1
+120,BE,Total protein,g/L,67.64770394,1
+121,Non-BE,Total protein,g/L,66.17926454,1
+122,Non-BE,Total protein,g/L,79.70572208,1
+1,Non-BE,Ca,mmol/L,2.38267333,2
+2,Non-BE,Ca,mmol/L,2.38796442,2
+3,BE,Ca,mmol/L,2.31386309,2
+4,BE,Ca,mmol/L,2.32887143,2
+5,Non-BE,Ca,mmol/L,2.2426417,2
+6,BE,Ca,mmol/L,2.24645751,2
+7,Non-BE,Ca,mmol/L,2.21346243,2
+8,Non-BE,Ca,mmol/L,2.30414269,2
+9,BE,Ca,mmol/L,2.25947993,2
+10,BE,Ca,mmol/L,2.32804793,2
+11,Non-BE,Ca,mmol/L,2.37364146,2
+12,Non-BE,Ca,mmol/L,2.28528492,2
+13,BE,Ca,mmol/L,2.23244669,2
+14,BE,Ca,mmol/L,2.30557235,2
+15,Non-BE,Ca,mmol/L,2.4432737,2
+16,Non-BE,Ca,mmol/L,2.38030968,2
+17,Non-BE,Ca,mmol/L,2.34114058,2
+18,BE,Ca,mmol/L,2.24366309,2
+19,Non-BE,Ca,mmol/L,2.18777475,2
+20,BE,Ca,mmol/L,2.31675159,2
+21,BE,Ca,mmol/L,2.26655125,2
+22,Non-BE,Ca,mmol/L,2.23679075,2
+23,BE,Ca,mmol/L,2.20977324,2
+24,BE,Ca,mmol/L,2.13543344,2
+25,BE,Ca,mmol/L,2.37504082,2
+26,BE,Ca,mmol/L,2.27648052,2
+27,Non-BE,Ca,mmol/L,2.34696554,2
+28,Non-BE,Ca,mmol/L,2.53595189,2
+29,Non-BE,Ca,mmol/L,2.49164159,2
+30,BE,Ca,mmol/L,2.26803979,2
+31,Non-BE,Ca,mmol/L,2.27737585,2
+32,Non-BE,Ca,mmol/L,2.38248554,2
+33,BE,Ca,mmol/L,2.3868408,2
+34,Non-BE,Ca,mmol/L,2.40891287,2
+35,BE,Ca,mmol/L,2.05566554,2
+36,Non-BE,Ca,mmol/L,2.30320986,2
+37,Non-BE,Ca,mmol/L,2.4248131,2
+38,Non-BE,Ca,mmol/L,2.22267805,2
+39,Non-BE,Ca,mmol/L,2.30237414,2
+40,BE,Ca,mmol/L,2.28156894,2
+41,BE,Ca,mmol/L,2.41748836,2
+42,BE,Ca,mmol/L,2.28631714,2
+43,Non-BE,Ca,mmol/L,2.42521731,2
+44,BE,Ca,mmol/L,2.29440155,2
+45,BE,Ca,mmol/L,2.27080501,2
+46,BE,Ca,mmol/L,2.33915915,2
+47,BE,Ca,mmol/L,2.20473466,2
+48,Non-BE,Ca,mmol/L,2.54183424,2
+49,BE,Ca,mmol/L,2.26741956,2
+50,Non-BE,Ca,mmol/L,2.22450556,2
+51,Non-BE,Ca,mmol/L,2.41776286,2
+52,Non-BE,Ca,mmol/L,2.49209048,2
+53,BE,Ca,mmol/L,2.43088371,2
+54,Non-BE,Ca,mmol/L,2.32579405,2
+55,BE,Ca,mmol/L,2.1639611,2
+56,BE,Ca,mmol/L,2.28693834,2
+57,BE,Ca,mmol/L,2.25186975,2
+58,Non-BE,Ca,mmol/L,2.41739022,2
+59,BE,Ca,mmol/L,2.3784617,2
+60,BE,Ca,mmol/L,2.27274828,2
+61,BE,Ca,mmol/L,2.25351816,2
+62,BE,Ca,mmol/L,2.34866715,2
+63,BE,Ca,mmol/L,2.23870062,2
+64,Non-BE,Ca,mmol/L,2.47940639,2
+65,Non-BE,Ca,mmol/L,2.29979765,2
+66,BE,Ca,mmol/L,2.23500726,2
+67,Non-BE,Ca,mmol/L,2.28544924,2
+68,Non-BE,Ca,mmol/L,2.33036582,2
+69,Non-BE,Ca,mmol/L,2.31530742,2
+70,BE,Ca,mmol/L,2.35864215,2
+71,BE,Ca,mmol/L,2.17931516,2
+72,BE,Ca,mmol/L,2.32764292,2
+73,Non-BE,Ca,mmol/L,2.45000842,2
+74,Non-BE,Ca,mmol/L,2.18133173,2
+75,Non-BE,Ca,mmol/L,2.26688029,2
+76,BE,Ca,mmol/L,2.46565136,2
+77,BE,Ca,mmol/L,2.24074396,2
+78,Non-BE,Ca,mmol/L,2.40773048,2
+79,Non-BE,Ca,mmol/L,2.35675278,2
+80,Non-BE,Ca,mmol/L,2.33593733,2
+81,BE,Ca,mmol/L,2.22679454,2
+82,Non-BE,Ca,mmol/L,2.29125782,2
+83,BE,Ca,mmol/L,2.20678058,2
+84,Non-BE,Ca,mmol/L,2.31607171,2
+85,Non-BE,Ca,mmol/L,2.36639487,2
+86,Non-BE,Ca,mmol/L,2.33495655,2
+87,BE,Ca,mmol/L,2.41909644,2
+88,Non-BE,Ca,mmol/L,2.31343504,2
+89,BE,Ca,mmol/L,2.28876693,2
+90,Non-BE,Ca,mmol/L,2.5050101,2
+91,Non-BE,Ca,mmol/L,2.34467027,2
+92,BE,Ca,mmol/L,2.21058689,2
+93,Non-BE,Ca,mmol/L,2.35300024,2
+94,Non-BE,Ca,mmol/L,2.44584108,2
+95,Non-BE,Ca,mmol/L,2.19875364,2
+96,Non-BE,Ca,mmol/L,2.45556085,2
+97,BE,Ca,mmol/L,2.21890375,2
+98,Non-BE,Ca,mmol/L,2.39039284,2
+99,BE,Ca,mmol/L,2.24355849,2
+100,BE,Ca,mmol/L,2.35107471,2
+101,Non-BE,Ca,mmol/L,2.45442384,2
+102,BE,Ca,mmol/L,2.31102257,2
+103,Non-BE,Ca,mmol/L,2.32610185,2
+104,Non-BE,Ca,mmol/L,2.34864546,2
+105,Non-BE,Ca,mmol/L,2.35147876,2
+106,BE,Ca,mmol/L,2.36382692,2
+107,BE,Ca,mmol/L,2.23252453,2
+108,Non-BE,Ca,mmol/L,2.3108998,2
+109,Non-BE,Ca,mmol/L,2.19913761,2
+110,BE,Ca,mmol/L,2.29525161,2
+111,BE,Ca,mmol/L,2.40183577,2
+112,Non-BE,Ca,mmol/L,2.26349601,2
+113,Non-BE,Ca,mmol/L,2.39811353,2
+114,Non-BE,Ca,mmol/L,2.27465463,2
+115,BE,Ca,mmol/L,2.3310973,2
+116,Non-BE,Ca,mmol/L,2.30487148,2
+117,Non-BE,Ca,mmol/L,2.46469096,2
+118,Non-BE,Ca,mmol/L,2.41299051,2
+119,BE,Ca,mmol/L,2.29992413,2
+120,BE,Ca,mmol/L,2.25028905,2
+121,Non-BE,Ca,mmol/L,2.39426432,2
+122,Non-BE,Ca,mmol/L,2.24763559,2
+1,Non-BE,Folate,ng/mL,4.51851218,3
+2,Non-BE,Folate,ng/mL,3.87173126,3
+3,BE,Folate,ng/mL,8.0853325,3
+4,BE,Folate,ng/mL,10.06267997,3
+5,Non-BE,Folate,ng/mL,3.79934697,3
+6,BE,Folate,ng/mL,4.91887635,3
+7,Non-BE,Folate,ng/mL,7.47063394,3
+8,Non-BE,Folate,ng/mL,2.72939826,3
+9,BE,Folate,ng/mL,6.057083,3
+10,BE,Folate,ng/mL,6.45503861,3
+11,Non-BE,Folate,ng/mL,3.92018245,3
+12,Non-BE,Folate,ng/mL,4.41846028,3
+13,BE,Folate,ng/mL,4.98301098,3
+14,BE,Folate,ng/mL,9.85438197,3
+15,Non-BE,Folate,ng/mL,4.5071152,3
+16,Non-BE,Folate,ng/mL,7.02588092,3
+17,Non-BE,Folate,ng/mL,11.85849091,3
+18,BE,Folate,ng/mL,5.32433723,3
+19,Non-BE,Folate,ng/mL,9.62369537,3
+20,BE,Folate,ng/mL,8.72976396,3
+21,BE,Folate,ng/mL,7.06618215,3
+22,Non-BE,Folate,ng/mL,2.87118539,3
+23,BE,Folate,ng/mL,9.86273475,3
+24,BE,Folate,ng/mL,20.28618459,3
+25,BE,Folate,ng/mL,4.84813577,3
+26,BE,Folate,ng/mL,6.5940717,3
+27,Non-BE,Folate,ng/mL,4.94785133,3
+28,Non-BE,Folate,ng/mL,4.82672768,3
+29,Non-BE,Folate,ng/mL,12.78742825,3
+30,BE,Folate,ng/mL,2.55288352,3
+31,Non-BE,Folate,ng/mL,17.64616499,3
+32,Non-BE,Folate,ng/mL,3.9695317,3
+33,BE,Folate,ng/mL,9.02261809,3
+34,Non-BE,Folate,ng/mL,4.64940403,3
+35,BE,Folate,ng/mL,8.81930544,3
+36,Non-BE,Folate,ng/mL,2.72920901,3
+37,Non-BE,Folate,ng/mL,9.82350139,3
+38,Non-BE,Folate,ng/mL,5.113961,3
+39,Non-BE,Folate,ng/mL,4.92558297,3
+40,BE,Folate,ng/mL,5.23461872,3
+41,BE,Folate,ng/mL,4.49555846,3
+42,BE,Folate,ng/mL,8.38762686,3
+43,Non-BE,Folate,ng/mL,5.63422232,3
+44,BE,Folate,ng/mL,6.85529197,3
+45,BE,Folate,ng/mL,4.81632114,3
+46,BE,Folate,ng/mL,6.22419155,3
+47,BE,Folate,ng/mL,7.74139339,3
+48,Non-BE,Folate,ng/mL,6.16785526,3
+49,BE,Folate,ng/mL,9.0825141,3
+50,Non-BE,Folate,ng/mL,5.38381852,3
+51,Non-BE,Folate,ng/mL,8.37314059,3
+52,Non-BE,Folate,ng/mL,9.51312114,3
+53,BE,Folate,ng/mL,3.70695541,3
+54,Non-BE,Folate,ng/mL,2.2337461,3
+55,BE,Folate,ng/mL,8.33837211,3
+56,BE,Folate,ng/mL,6.52360198,3
+57,BE,Folate,ng/mL,13.64253187,3
+58,Non-BE,Folate,ng/mL,5.99949689,3
+59,BE,Folate,ng/mL,11.21239987,3
+60,BE,Folate,ng/mL,7.18788652,3
+61,BE,Folate,ng/mL,8.12884278,3
+62,BE,Folate,ng/mL,5.23259653,3
+63,BE,Folate,ng/mL,4.53158153,3
+64,Non-BE,Folate,ng/mL,6.4750647,3
+65,Non-BE,Folate,ng/mL,3.44228374,3
+66,BE,Folate,ng/mL,8.42659192,3
+67,Non-BE,Folate,ng/mL,5.24097975,3
+68,Non-BE,Folate,ng/mL,4.31167576,3
+69,Non-BE,Folate,ng/mL,9.18726517,3
+70,BE,Folate,ng/mL,10.14161182,3
+71,BE,Folate,ng/mL,6.90367828,3
+72,BE,Folate,ng/mL,8.31539834,3
+73,Non-BE,Folate,ng/mL,5.63281947,3
+74,Non-BE,Folate,ng/mL,6.40510091,3
+75,Non-BE,Folate,ng/mL,6.7058156,3
+76,BE,Folate,ng/mL,6.91391877,3
+77,BE,Folate,ng/mL,8.03468911,3
+78,Non-BE,Folate,ng/mL,8.16881479,3
+79,Non-BE,Folate,ng/mL,5.83112655,3
+80,Non-BE,Folate,ng/mL,4.40258773,3
+81,BE,Folate,ng/mL,9.66035801,3
+82,Non-BE,Folate,ng/mL,10.7032514,3
+83,BE,Folate,ng/mL,6.70271775,3
+84,Non-BE,Folate,ng/mL,4.36195885,3
+85,Non-BE,Folate,ng/mL,12.86129963,3
+86,Non-BE,Folate,ng/mL,7.91687532,3
+87,BE,Folate,ng/mL,8.3320985,3
+88,Non-BE,Folate,ng/mL,5.34035373,3
+89,BE,Folate,ng/mL,6.15511523,3
+90,Non-BE,Folate,ng/mL,4.76291705,3
+91,Non-BE,Folate,ng/mL,7.22790177,3
+92,BE,Folate,ng/mL,5.4536451,3
+93,Non-BE,Folate,ng/mL,7.13631248,3
+94,Non-BE,Folate,ng/mL,7.24030732,3
+95,Non-BE,Folate,ng/mL,8.24253772,3
+96,Non-BE,Folate,ng/mL,10.38905491,3
+97,BE,Folate,ng/mL,6.41567491,3
+98,Non-BE,Folate,ng/mL,3.97630879,3
+99,BE,Folate,ng/mL,11.04028347,3
+100,BE,Folate,ng/mL,15.85365337,3
+101,Non-BE,Folate,ng/mL,10.89311668,3
+102,BE,Folate,ng/mL,13.75392968,3
+103,Non-BE,Folate,ng/mL,3.7194972,3
+104,Non-BE,Folate,ng/mL,10.65314431,3
+105,Non-BE,Folate,ng/mL,4.9005698,3
+106,BE,Folate,ng/mL,8.19058771,3
+107,BE,Folate,ng/mL,6.83754929,3
+108,Non-BE,Folate,ng/mL,6.57777352,3
+109,Non-BE,Folate,ng/mL,3.3565186,3
+110,BE,Folate,ng/mL,7.56459776,3
+111,BE,Folate,ng/mL,12.55834333,3
+112,Non-BE,Folate,ng/mL,4.07975812,3
+113,Non-BE,Folate,ng/mL,4.49000735,3
+114,Non-BE,Folate,ng/mL,6.66174886,3
+115,BE,Folate,ng/mL,4.81066832,3
+116,Non-BE,Folate,ng/mL,7.44144148,3
+117,Non-BE,Folate,ng/mL,4.37911324,3
+118,Non-BE,Folate,ng/mL,8.12939804,3
+119,BE,Folate,ng/mL,11.7207452,3
+120,BE,Folate,ng/mL,4.5431616,3
+121,Non-BE,Folate,ng/mL,5.41301718,3
+122,Non-BE,Folate,ng/mL,7.12408837,3

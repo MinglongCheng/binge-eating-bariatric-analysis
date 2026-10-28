@@ -1,0 +1,24 @@
+# Local environments, caches and editor state (publish code/data/outputs)
+.venv/
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+# macOS metadata sidecars
+._*
+# Temporary MNAR checkpoints
+outputs/04_postoperative_longitudinal_analysis/intermediate/.module04_mnar_work/

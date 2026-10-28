@@ -1,0 +1,5 @@
+panel_id,feature_set,feature,display_name,direction_symbol,normalized_cross_model_mean_abs_shap,directional_consistency_abs_mean_sign,signed_mean_direction,display_order
+f,Fixed Top-4,calcium_mmol_l,Ca,−,0.9991856502018566,1.0,-1.0,1
+f,Fixed Top-4,iron_umol_l,Fe,−,0.966118150260614,1.0,-1.0,2
+f,Fixed Top-4,folate_ng_ml,Folate,+,0.9346084927866674,1.0,1.0,3
+f,Fixed Top-4,total_protein_g_l,Total protein,−,0.7029964771803321,1.0,-1.0,4

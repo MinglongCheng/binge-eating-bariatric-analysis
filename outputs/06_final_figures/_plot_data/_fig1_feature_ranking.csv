@@ -1,0 +1,9 @@
+panel_id,feature,feature_name,domain,overall_rank,borda_rank_sum,fdr_rank,l1_rank,xgboost_rank,display_order
+d,calcium_mmol_l,Ca,Nutrition indicators,1,4,1,1,2,1
+d,total_protein_g_l,Total protein,Nutrition indicators,2,9,3,3,3,2
+d,folate_ng_ml,Folate,Nutrition indicators,3,11,4,2,5,3
+d,iron_umol_l,Fe,Nutrition indicators,4,15,2,12,1,4
+d,hemoglobin_g_l,Hb,Nutrition indicators,5,17,6,4,7,5
+d,creatinine_umol_l,Creatinine,Metabolic indicators,6,20,8,8,4,6
+d,hba1c_percent,HbA1c,Metabolic indicators,7,27,7,6,14,7
+d,urea_mmol_l,Urea,Metabolic indicators,8,29,16,7,6,8

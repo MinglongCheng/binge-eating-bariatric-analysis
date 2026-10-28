@@ -1,0 +1,22 @@
+Key,Value,Scope,Description
+font_family,Arial,global,Font family used in all final figures
+background_color,white,global,Figure background
+png_dpi,600,global,PNG resolution
+combined_width_cm,17.37,combined,Final combined-figure width
+panel_letter_size_pt,10,combined,Panel-letter size
+combined_axis_title_size_pt,7,combined,Combined-figure axis-title size
+combined_tick_size_pt,7,combined,Combined-figure tick-label size
+combined_legend_size_pt,7,combined,Combined-figure legend size
+single_axis_title_size_pt,10,single,Standalone axis-title size
+single_tick_size_pt,9,single,Standalone tick-label size
+single_legend_size_pt,9,single,Standalone legend size
+line_main_width_pt,1.05,combined,Combined-figure main line width
+line_main_single_width_pt,1.20,single,Standalone main line width
+color_non_be,#1B9E9A,grouped,Non-BE line and point colour
+color_be,#E59886,grouped,BE line and point colour
+linetype_non_be,solid,grouped,Non-BE line type
+linetype_be,dashed,grouped,BE line type
+marker_non_be,circle,grouped,Non-BE marker
+marker_be,square,grouped,BE marker
+reference_line_color,#B3B3B3,global,Zero or reference line colour
+reference_line_width_pt,0.55,combined,Reference-line width

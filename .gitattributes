@@ -1,0 +1,2 @@
+# Exclude generated EPS figures from GitHub language statistics
+outputs/06_final_figures/eps/*.eps linguist-generated

@@ -1,0 +1,241 @@
+"outcome_key","outcome","unit","outcome_label","category","part","part_label","panel_id","display_order","group","visit","estimate","se","lower","upper"
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"Non-BE","M0",109.033292738469,1.79370697719027,105.480783873368,112.585801603569
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"BE","M0",110.645792699159,2.01812909272745,106.651473026833,114.640112371484
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"Non-BE","M1",102.249240356906,1.67459726045984,98.9326705696391,105.565810144173
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"BE","M1",103.768023978608,1.89399031819156,100.019378859236,107.51666909798
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"Non-BE","M3",93.953613275124,1.53122835115955,90.9208704167718,96.9863561334762
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"BE","M3",95.2593206510007,1.74541511722242,91.8044031812585,98.714238120743
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"Non-BE","M6",86.0959608731667,1.40487564634528,83.3136544933256,88.8782672530078
+"weight","Weight","kg","Weight (kg)","Anthropometrics",1,"Anthropometrics and nutrition","a",1,"BE","M6",87.2511974718371,1.61463462709938,84.0547497100433,90.447645233631
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"Non-BE","M0",39.0152454904768,0.535892752717064,37.9541671324186,40.0763238485349
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"BE","M0",39.6062668816918,0.605562604272758,38.4079782228634,40.8045555405201
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"Non-BE","M1",36.566052306094,0.497818680241171,35.5803408668162,37.5517637453719
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"BE","M1",37.095080941257,0.56609400608908,35.9748109556955,38.2153509268186
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"Non-BE","M3",33.5858244549917,0.459471717483008,32.6760011636138,34.4956477463696
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"BE","M3",33.977812273101,0.526590007722523,32.9355696195626,35.0200549266394
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"Non-BE","M6",30.7595041088094,0.422494013092194,29.9228832479147,31.5961249697041
+"bmi","BMI","kg/m²","BMI (kg/m²)","Anthropometrics",1,"Anthropometrics and nutrition","b",2,"BE","M6",31.0498417391921,0.488486540317424,30.0827534401651,32.0169300382191
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"Non-BE","M0",72.6468114191838,0.530680454459149,71.5958297602581,73.6977930781095
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"BE","M0",69.1559170979047,0.61811178726526,67.9317974230066,70.3800367728029
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"Non-BE","M1",69.9823079744343,0.562020019092763,68.8687943548609,71.0958215940078
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"BE","M1",66.6687358972356,0.649532031659316,65.3822322426461,67.955239551825
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"Non-BE","M3",71.2633532294932,0.563776743858368,70.146620546872,72.3800859121145
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"BE","M3",67.8881391710536,0.66375593062554,66.5744860108802,69.2017923312271
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"Non-BE","M6",72.670817586867,0.571741368832673,71.5388787185469,73.8027564551871
+"total_protein","Total protein","g/L","Total protein (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","c",3,"BE","M6",68.7230303333781,0.649898515967317,67.4360696776836,70.0099909890725
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"Non-BE","M0",2.34980878405676,0.0101797702991255,2.32964820495159,2.36996936316193
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"BE","M0",2.27999914333976,0.0118447785097887,2.25654260416792,2.30345568251159
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"Non-BE","M1",2.3295103478857,0.0112513574703011,2.30720356307731,2.3518171326941
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"BE","M1",2.26192860405302,0.0129205661151818,2.23632818920755,2.2875290188985
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"Non-BE","M3",2.33956662424353,0.0102081580187629,2.31934640067608,2.35978684781099
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"BE","M3",2.26467624776965,0.0120501225094057,2.24082190871852,2.28853058682078
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"Non-BE","M6",2.34670494080564,0.0113382492969636,2.32425338455771,2.36915649705356
+"calcium","Ca","mmol/L","Ca (mmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","d",4,"BE","M6",2.27474781378541,0.0127887799609199,2.24942082319746,2.30007480437336
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"Non-BE","M0",24.5112548140629,1.58267510755198,21.376935043099,27.6455745850268
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"BE","M0",19.7074543429139,1.83838550903399,16.0671047059285,23.3478039798994
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"Non-BE","M1",25.2004825609338,1.61653067110181,21.9988422532205,28.4021228686471
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"BE","M1",20.4464216743332,1.87253483123701,16.7385691530708,24.1542741955956
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"Non-BE","M3",25.6158278723197,1.60748641181874,22.4322633641509,28.7993923804886
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"BE","M3",21.5807427081828,1.86675477092026,17.8845633268388,25.2769220895268
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"Non-BE","M6",26.7680185327656,1.56935820198334,23.6599143169499,29.8761227485813
+"vitamin_d_25oh","25(OH)D","ng/mL","25(OH)D (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","e",5,"BE","M6",22.2224363437463,1.82086580110489,18.6160191302055,25.8288535572871
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"Non-BE","M0",18.2498409666258,0.708134876631301,16.8474217039481,19.6522602293036
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"BE","M0",14.5672563763604,0.821669654547431,12.9402744350998,16.194238317621
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"Non-BE","M1",17.8996656435378,0.696974658728651,16.5193679216137,19.279963365462
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"BE","M1",13.7521752968028,0.810206117262916,12.147754586115,15.3565960074905
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"Non-BE","M3",17.4237170990735,0.697176024654567,16.042236051674,18.8051981464731
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"BE","M3",13.9413770203534,0.816723960569901,12.3237008969494,15.5590531437574
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"Non-BE","M6",16.9974185539069,0.743111056585879,15.525937934114,18.4688991736998
+"iron","Fe","µmol/L","Fe (µmol/L)","Nutrition indicators",1,"Anthropometrics and nutrition","f",6,"BE","M6",13.3397510056095,0.849119507553801,11.6583291480192,15.0211728631997
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"Non-BE","M0",141.408746130197,0.956641801799588,139.514158707096,143.303333553297
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"BE","M0",139.314109389818,1.10630310222011,137.123633502948,141.504585276688
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"Non-BE","M1",140.19129150235,1.17134424516537,137.871713329074,142.510869675627
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"BE","M1",137.45737790854,1.32521402263301,134.834579031561,140.080176785519
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"Non-BE","M3",139.849713430169,1.11524660299914,137.640245739837,142.059181120501
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"BE","M3",138.255491129873,1.30218792377952,135.679060465897,140.831921793849
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"Non-BE","M6",138.049264835944,1.01771290147452,136.032013996699,140.066515675189
+"hemoglobin","Hb","g/L","Hb (g/L)","Nutrition indicators",1,"Anthropometrics and nutrition","g",7,"BE","M6",136.344201257137,1.12339121154367,134.11691816099,138.571484353284
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"Non-BE","M0",4.77488088556186,0.0309836185288367,4.71352062311797,4.83624114800574
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"BE","M0",4.70230761218775,0.0359258221478969,4.63117080401841,4.77344442035709
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"Non-BE","M1",4.76351122510319,0.0353531548806437,4.69350437833288,4.8335180718735
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"BE","M1",4.67080320325534,0.040347810024292,4.59094267736853,4.75066372914215
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"Non-BE","M3",4.72972317133184,0.0344236655268304,4.66151329843193,4.79793304423175
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"BE","M3",4.66347398577214,0.0400492552536034,4.58420337671593,4.74274459482836
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"Non-BE","M6",4.68753361617435,0.0314695165446272,4.62520364363574,4.74986358871296
+"rbc","RBC","×10¹²/L","RBC (×10¹²/L)","Nutrition indicators",1,"Anthropometrics and nutrition","h",8,"BE","M6",4.62369229000029,0.0357793199937784,4.55280643052716,4.69457814947342
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"Non-BE","M0",6.44059927146222,0.374034455166467,5.69991645431585,7.18128208860858
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"BE","M0",7.84686981896944,0.422161266510181,7.01139860751638,8.6823410304225
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"Non-BE","M1",6.6963743963554,0.429745227784609,5.84538186800713,7.54736692470368
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"BE","M1",8.04622526574345,0.479801449973441,7.09667528551586,8.99577524597104
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"Non-BE","M3",7.11475794613883,0.468366099889948,6.18717088827312,8.04234500400453
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"BE","M3",8.60279151196072,0.528304375731681,7.55756074452721,9.64802227939422
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"Non-BE","M6",7.2534041477478,0.548760588229556,6.16625934948014,8.34054894601545
+"folate","Folate","ng/mL","Folate (ng/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","i",9,"BE","M6",9.11168736008281,0.597080063897835,7.92889754912979,10.2944771710358
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"Non-BE","M0",477.184257693132,26.7916197735673,424.126722239596,530.241793146669
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"BE","M0",555.500423271553,30.4413131798026,495.249426027592,615.751420515515
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"Non-BE","M1",508.141726641724,31.143491587608,446.484887543459,569.798565739989
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"BE","M1",576.103698087237,34.9374589891646,506.976079263098,645.231316911376
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"Non-BE","M3",514.813470717258,34.1529002860912,447.176665757326,582.45027567719
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"BE","M3",598.279690218844,38.5551140270718,521.999884734551,674.559495703136
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"Non-BE","M6",514.768935549445,33.6250886028216,448.132519949149,581.405351149741
+"vitamin_b12","Vitamin B12","pg/mL","Vitamin B12 (pg/mL)","Nutrition indicators",1,"Anthropometrics and nutrition","j",10,"BE","M6",609.652543517298,36.871733437553,536.596098359941,682.708988674656
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"Non-BE","M0",43.1640292384766,3.39745203452979,36.4371134651012,49.8909450118519
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"BE","M0",46.3885193467633,3.69493548027224,39.0730723417886,53.7039663517379
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"Non-BE","M1",36.7263904312844,2.47825477857197,31.8178862620194,41.6348946005495
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"BE","M1",39.8076881961273,2.69814634775449,34.4642519899236,45.1511244023311
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"Non-BE","M3",30.9643344176853,1.62184624770903,27.7528745143732,34.1757943209973
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"BE","M3",33.7648278680547,1.80428757754807,30.1948496561048,37.3348060800047
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"Non-BE","M6",28.6485332730696,1.22461450854497,26.2220393843026,31.0750271618365
+"alt","ALT","U/L","ALT (U/L)","Metabolic indicators",2,"Metabolic indicators","k",11,"BE","M6",28.8698639305039,1.31963852964952,26.2544330143024,31.4852948467054
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"Non-BE","M0",26.1321411164036,1.38483693906011,23.3894015887054,28.8748806441019
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"BE","M0",27.7674416031561,1.52413074280267,24.7501573590228,30.7847258472894
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"Non-BE","M1",24.9442276843298,1.33104095608669,22.3058049079899,27.5826504606697
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"BE","M1",26.7047380274282,1.46512594348133,23.8019602915353,29.607515763321
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"Non-BE","M3",24.1956388666417,0.98646925417671,22.2412906177511,26.1499871155324
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"BE","M3",24.9897103646344,1.12513342554618,22.7635718813869,27.2158488478819
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"Non-BE","M6",22.1553262540918,0.768008075290559,20.6339351755781,23.6767173326055
+"ast","AST","U/L","AST (U/L)","Metabolic indicators",2,"Metabolic indicators","l",12,"BE","M6",24.1041890602432,0.844973449426134,22.4301814218514,25.778196698635
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"Non-BE","M0",41.666532379803,3.19408790256546,35.3419268506006,47.9911379090054
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"BE","M0",43.5091160226272,3.47620966573267,36.6265070336294,50.391725011625
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"Non-BE","M1",37.7748157113122,2.52144102004764,32.7810670569476,42.7685643656767
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"BE","M1",37.321082058881,2.74497295413635,31.8852126220051,42.7569514957568
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"Non-BE","M3",32.6058537060356,1.8480767980331,28.9463109842684,36.2653964278027
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"BE","M3",35.0775708938931,2.04389470270359,31.0327899894954,39.1223517982908
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"Non-BE","M6",31.0851202011502,1.39306105227665,28.3261021954634,33.844138206837
+"ggt","GGT","U/L","GGT (U/L)","Metabolic indicators",2,"Metabolic indicators","m",13,"BE","M6",30.4652822773181,1.50927164533807,27.4757852008827,33.4547793537535
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"Non-BE","M0",4.75702291577262,0.0736497877572213,4.61116709953221,4.90287873201302
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"BE","M0",4.92704639309339,0.0854569679862976,4.75783314916474,5.09625963702204
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"Non-BE","M1",4.59961501696516,0.0779559078397499,4.44522469259383,4.75400534133649
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"BE","M1",4.85189633410431,0.0897021503673195,4.67429706976719,5.02949559844143
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"Non-BE","M3",4.53250499379049,0.0715193101062969,4.39083251732368,4.67417747025731
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"BE","M3",4.64959552239245,0.0844369624956241,4.48241713742945,4.81677390735546
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"Non-BE","M6",4.37858031254272,0.0804579110767416,4.21918616223151,4.53797446285392
+"total_cholesterol","Total cholesterol","mmol/L","Total cholesterol (mmol/L)","Metabolic indicators",2,"Metabolic indicators","n",14,"BE","M6",4.49843335201064,0.0912129217291151,4.31775792285726,4.67910878116402
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"Non-BE","M0",2.85258748049625,0.0744995006498816,2.70504861027764,3.00012635071485
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"BE","M0",3.04240336014461,0.0865426816693562,2.87103087249431,3.21377584779491
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"Non-BE","M1",2.73992846676482,0.0793832021088588,2.58272098035395,2.8971359531757
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"BE","M1",2.9597980943773,0.091456053815287,2.77873640110183,3.14085978765277
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"Non-BE","M3",2.64555796420388,0.0744012920583874,2.49816836532001,2.79294756308775
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"BE","M3",2.82481410330893,0.0872487011417442,2.65205321686294,2.99757498975492
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"Non-BE","M6",2.51810159002124,0.0790115600204269,2.36160292889625,2.67460025114622
+"ldl_c","LDL-C","mmol/L","LDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","o",15,"BE","M6",2.66782757998152,0.090463482317061,2.48866486482515,2.84699029513788
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"Non-BE","M0",1.25633690999725,0.0222760210920575,1.21222125085694,1.30045256913756
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"BE","M0",1.25041858909137,0.0258433547680861,1.19924523227393,1.3015919459088
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"Non-BE","M1",1.2709468370051,0.0253809786339277,1.2206781280304,1.32121554597979
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"BE","M1",1.2792495018061,0.0289818654458386,1.22187767396629,1.33662132964591
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"Non-BE","M3",1.3384797034236,0.0254101830776904,1.28812790874647,1.38883149810073
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"BE","M3",1.31879235113284,0.0297333149647529,1.25994928439735,1.37763541786834
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"Non-BE","M6",1.35954238647555,0.0235312059102218,1.31289690369655,1.40618786925455
+"hdl_c","HDL-C","mmol/L","HDL-C (mmol/L)","Metabolic indicators",2,"Metabolic indicators","p",16,"BE","M6",1.36516165996786,0.0261024717074206,1.3134032175485,1.41692010238722
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"Non-BE","M0",5.73423121572674,0.0738759855618961,5.5879557012253,5.88050673022817
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"BE","M0",5.52360962018789,0.0808293685104605,5.36360892906919,5.6836103113066
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"Non-BE","M1",5.45482695823602,0.0561184902121157,5.34367708390618,5.56597683256586
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"BE","M1",5.3218118049719,0.0617026521756608,5.19965353468908,5.44397007525472
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"Non-BE","M3",5.25806567735114,0.037693361487917,5.18335411370934,5.33277724099293
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"BE","M3",5.17798707202718,0.0451992693647034,5.08851551974667,5.26745862430769
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"Non-BE","M6",5.08483949993335,0.0321010413199733,5.02111487868828,5.14856412117841
+"fpg","FPG","mmol/L","FPG (mmol/L)","Metabolic indicators",2,"Metabolic indicators","q",17,"BE","M6",5.02563234226715,0.0338601871892348,4.95844836792588,5.09281631660842
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"Non-BE","M0",5.69206865016306,0.0419557004562943,5.60899678317333,5.77514051715279
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"BE","M0",5.5524629607375,0.0462256803847005,5.4609768917878,5.64394902968719
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"Non-BE","M1",5.67398102128282,0.0415636258453951,5.59169130575343,5.7562707368122
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"BE","M1",5.51163841070411,0.0457760606623062,5.42104762473764,5.60222919667058
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"Non-BE","M3",5.54108758044204,0.0259988905889965,5.48957876663177,5.5925963942523
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"BE","M3",5.46623153656577,0.030519788976263,5.40585104190684,5.5266120312247
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"Non-BE","M6",5.38264123809395,0.0231429580996724,5.33663918721231,5.42864328897559
+"hba1c","HbA1c","%","HbA1c (%)","Metabolic indicators",2,"Metabolic indicators","r",18,"BE","M6",5.35135474234481,0.0243728350058842,5.30294645371133,5.39976303097828
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"Non-BE","M0",4.54912192640154,0.102085932364255,4.34694188091723,4.75130197188586
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"BE","M0",4.68864740901205,0.118720424305914,4.45353495937239,4.9237598586517
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"Non-BE","M1",4.51447549372848,0.109064678286115,4.2985205075513,4.73043047990565
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"BE","M1",4.6074119390192,0.125701684863183,4.35856967145802,4.85625420658037
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"Non-BE","M3",4.38328043221231,0.110956906705821,4.16349279779215,4.60306806663246
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"BE","M3",4.54815141769594,0.129475119096452,4.29189229034015,4.80441054505173
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"Non-BE","M6",4.30463784206468,0.119787705287316,4.06740797416288,4.54186770996649
+"urea","Urea","mmol/L","Urea (mmol/L)","Metabolic indicators",2,"Metabolic indicators","s",19,"BE","M6",4.42976570115485,0.133728866634039,4.16490152425725,4.69462987805244
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"Non-BE","M0",71.6678669730497,1.44348731838806,68.8091559079932,74.5265780381063
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"BE","M0",76.0822359890107,1.67997644891006,72.7553352909377,79.4091366870837
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"Non-BE","M1",70.6101953350967,1.45463105558299,67.7284504515377,73.4919402186557
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"BE","M1",75.9502845733571,1.69042272950695,72.6017197282947,79.2988494184195
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"Non-BE","M3",69.4331188388794,1.50466721216848,66.4519795276183,72.4142581501404
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"BE","M3",73.7502408217566,1.75550621767689,70.2741593142624,77.2263223292508
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"Non-BE","M6",67.9233606917455,1.51017193414474,64.9328454875186,70.9138758959725
+"creatinine","Creatinine","µmol/L","Creatinine (µmol/L)","Metabolic indicators",2,"Metabolic indicators","t",20,"BE","M6",72.3356676706477,1.73817665524168,68.893664187072,75.7776711542234
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"Non-BE","M0",341.830907281514,5.0415813438427,331.846485079494,351.815329483535
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"BE","M0",356.067038968412,5.85373916899012,344.475264790956,367.658813145868
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"Non-BE","M1",330.774475956937,5.64789931849731,319.590576411471,341.958375502402
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"BE","M1",344.788223477012,6.466755709793,331.987918639758,357.588528314267
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"Non-BE","M3",321.09017383555,5.53144032561722,310.132815042554,332.047532628546
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"BE","M3",333.696202851948,6.42768718293862,320.974155460008,346.418250243889
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"Non-BE","M6",306.312432417116,5.47829053371678,295.464656538354,317.160208295878
+"uric_acid","Uric acid","µmol/L","Uric acid (µmol/L)","Metabolic indicators",2,"Metabolic indicators","u",21,"BE","M6",321.040796081142,6.17503448059473,308.810917926795,333.270674235489
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"Non-BE","M0",140.014131081613,0.204897448062764,139.608331596753,140.419930566472
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"BE","M0",139.809997844826,0.238397246215893,139.337883137619,140.282112552033
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"Non-BE","M1",139.775490339291,0.235172436375352,139.309102615076,140.241878063507
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"BE","M1",140.04834161661,0.268861714292077,139.515517806214,140.581165427006
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"Non-BE","M3",139.791662734448,0.220101461182076,139.355146256564,140.228179212331
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"BE","M3",139.877334327489,0.263845423098881,139.354864602926,140.399804052052
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"Non-BE","M6",140.106459329573,0.239844218252458,139.6316592592,140.581259399947
+"sodium","Na","mmol/L","Na (mmol/L)","Metabolic indicators",2,"Metabolic indicators","v",22,"BE","M6",139.768227717867,0.266162926629893,139.24121856551,140.295236870223
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"Non-BE","M0",4.07650926519826,0.027340273598249,4.02236534591346,4.13065318448306
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"BE","M0",4.12434013126596,0.0317258745458945,4.06151934663359,4.18716091589832
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"Non-BE","M1",4.05007078934624,0.03320820799387,3.9842532732111,4.11588830548139
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"BE","M1",4.12205770376267,0.0376771917535418,4.04743557636478,4.19667983116056
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"Non-BE","M3",4.06495506017074,0.0292858781769511,4.00686384162538,4.1230462787161
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"BE","M3",4.12735700957374,0.0354916155136965,4.05707302777585,4.19764099137163
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"Non-BE","M6",4.06470421543057,0.030212299683264,4.00485794917813,4.12455048168302
+"potassium","K","mmol/L","K (mmol/L)","Metabolic indicators",2,"Metabolic indicators","w",23,"BE","M6",4.13953718626106,0.033434138519538,4.07329432172909,4.20578005079302
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"Non-BE","M0",103.012097767651,0.188360774284963,102.639061400298,103.385134135005
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"BE","M0",102.77264868005,0.219362616999176,102.338222059348,103.207075300751
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"Non-BE","M1",102.882860361827,0.2411565907269,102.404738584662,103.360982138992
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"BE","M1",103.052987613227,0.272907320908175,102.512351911136,103.593623315317
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"Non-BE","M3",102.764676184523,0.224275943091342,102.319743666592,103.209608702454
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"BE","M3",102.932906739639,0.268243913999608,102.401735674107,103.464077805172
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"Non-BE","M6",103.066051110904,0.233973306922157,102.602467599772,103.529634622035
+"chloride","Cl","mmol/L","Cl (mmol/L)","Metabolic indicators",2,"Metabolic indicators","x",24,"BE","M6",102.748192904084,0.256488816935058,102.239972042729,103.256413765439
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"Non-BE","M0",6.97505240523156,0.138886991085689,6.69999009625983,7.2501147142033
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"BE","M0",7.013068838125,0.161094406447999,6.69407600464926,7.33206167160074
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"Non-BE","M1",6.70318134900451,0.169990772775854,6.36585908131446,7.04050361669456
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"BE","M1",6.67587844046973,0.192589237700485,6.29405565859849,7.05770122234096
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"Non-BE","M3",6.46099930636257,0.166048035718367,6.13193350120233,6.7900651115228
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"BE","M3",6.55189442652732,0.197951154141269,6.1602140639695,6.94357478908515
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"Non-BE","M6",6.13735671442358,0.143255879999523,5.85354286555783,6.42117056328932
+"wbc","WBC","×10⁹/L","WBC (×10⁹/L)","Immune indicators",3,"Immune indicators","y",25,"BE","M6",6.07742828814538,0.159801180510071,5.76071817504035,6.39413840125041
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"Non-BE","M0",4.10592245477847,0.102167641971485,3.90359015764998,4.30825475190696
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"BE","M0",4.11023796049945,0.118553713051587,3.87548811960592,4.34498780139298
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"Non-BE","M1",3.91246719334229,0.122695355556619,3.66894185029039,4.1559925363942
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"BE","M1",3.85887303585039,0.139297585419891,3.58264260378089,4.1351034679199
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"Non-BE","M3",3.67534199827764,0.118463950783935,3.44056392502447,3.91012007153082
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"BE","M3",3.71650528697622,0.143139894868202,3.43325088058174,3.9997596933707
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"Non-BE","M6",3.47754354822568,0.111646686190726,3.25620589968465,3.69888119676672
+"neutrophils","Neutrophils","×10⁹/L","Neutrophils (×10⁹/L)","Immune indicators",3,"Immune indicators","z",26,"BE","M6",3.41452658480645,0.122703382275572,3.17121719601447,3.65783597359844
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"Non-BE","M0",2.18304817944015,0.05203753755238,2.07999146454085,2.28610489433945
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"BE","M0",2.23735112779996,0.0605169719329801,2.11750971604165,2.35719253955827
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"Non-BE","M1",2.12750903763524,0.0676934051663429,1.9930268486332,2.26199122663728
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"BE","M1",2.15251170806035,0.0764139759698284,2.00089255442242,2.30413086169828
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"Non-BE","M3",2.14341300109883,0.065617448115934,2.01325996035491,2.27356604184275
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"BE","M3",2.18425992923962,0.077340340967245,2.03113372587085,2.33738613260838
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"Non-BE","M6",2.018905067124,0.0602649894519884,1.89953762742643,2.13827250682157
+"lymphocytes","Lymphocytes","×10⁹/L","Lymphocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","aa",27,"BE","M6",2.08835240875638,0.06611342872543,1.95738260765411,2.21932220985865
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"Non-BE","M0",0.490760123983263,0.0136827732322733,0.463662943464488,0.517857304502038
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"BE","M0",0.482189870291455,0.0158478328378108,0.450811230517058,0.513568510065853
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"Non-BE","M1",0.460112479943216,0.0165238233548084,0.427350530700226,0.492874429186206
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"BE","M1",0.464144473257863,0.0187322748575068,0.427034247881487,0.501254698634238
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"Non-BE","M3",0.45131255761017,0.0149406934983545,0.42168349708202,0.480941618138319
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"BE","M3",0.442671620425299,0.0178030305082687,0.407423781893281,0.477919458957316
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"Non-BE","M6",0.428753259428065,0.0146224210064616,0.39978214080773,0.4577243780484
+"monocytes","Monocytes","×10⁹/L","Monocytes (×10⁹/L)","Immune indicators",3,"Immune indicators","ab",28,"BE","M6",0.408399339517363,0.0160074290800569,0.376682128322869,0.440116550711857
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"Non-BE","M0",0.163427257359494,0.00893861970232767,0.145725864968324,0.181128649750664
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"BE","M0",0.149039789879174,0.0103400607441685,0.128567691721875,0.169511888036472
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"Non-BE","M1",0.159848995297089,0.0120626265757753,0.135943314757655,0.183754675836523
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"BE","M1",0.15235325144847,0.0135216555752459,0.125574785824139,0.179131717072802
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"Non-BE","M3",0.152750456855939,0.00958930732004195,0.133739195188317,0.171761718523561
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"BE","M3",0.15761172560901,0.0113235622303178,0.135193999107778,0.180029452110241
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"Non-BE","M6",0.151393121226708,0.0094761199251025,0.132606543873122,0.170179698580294
+"eosinophils","Eosinophils","×10⁹/L","Eosinophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ac",29,"BE","M6",0.141692331991105,0.0106140093165998,0.120645742365119,0.162738921617091
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"Non-BE","M0",0.0344879954078172,0.00100445582434222,0.0324987216501574,0.036477269165477
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"BE","M0",0.0330598842837831,0.00116977962249949,0.0307432363196587,0.0353765322479075
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"Non-BE","M1",0.0346446977635347,0.00129035057194246,0.0320829076024808,0.0372064879245886
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"BE","M1",0.0319738319308736,0.00145935033814978,0.0290792706682941,0.034868393193453
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"Non-BE","M3",0.0326337389848643,0.00122441225167569,0.0302062124612806,0.035061265508448
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"BE","M3",0.0332408855116283,0.00146386080153083,0.0303434993630814,0.0361382716601752
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"Non-BE","M6",0.0332013275688769,0.00146066640600619,0.0303046132500837,0.03609804188767
+"basophils","Basophils","×10⁹/L","Basophils (×10⁹/L)","Immune indicators",3,"Immune indicators","ad",30,"BE","M6",0.0310253400532366,0.00154116970101079,0.0279693258258887,0.0340813542805845
